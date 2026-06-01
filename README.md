@@ -7,8 +7,8 @@
 
 #
 
-<p align="center">Estudante de Ciência de dados na Faculdade Senac. Atualmente trabalho em projetos pessoais e estudo Js paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Profissional em Análise de dados na Faculdade Senac. Atualmente trabalho em projetos pessoais e estudo Engenharia de Software, Infraestrutura de TI, Segurança da Informação, Metodologias ágeis, Banco de dados e Ciência de dados paralelamente.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras e úteis.
   
 #
 
@@ -58,11 +58,11 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
       
 
-- 🔭 Atualmente não estou trabalhando fora, apenas em meus projetos e terminando a faculdade
-- 🌱 Estou aprendendo versionamento e metodologias ágeis
-- 👯 Procuro colaborar na evolução da sociedade
-- 🤔 Estou procurando ajuda com metodologias ágeis e grid
-- 💬 Pergunte-me sobre javascript
-- 📫 Como entrar em contato comigo: 5561994451408
+- 🔭 Atualmente não estou trabalhando fora, apenas em meus projetos e adquirindo conhecimento pra ter um bom emprego
+- 🌱 Estou aprendendo Computação/Segurança em Nuvem e de containers, ITIL V4, Grapsh QL, Cálculos de APF e NESMA
+- 👯 Além do comprometimento diário com minha *Evolução*, procuro colaborar na evolução da sociedade
+- 🤔 Estou procurando ajuda com Tipos de Ataques e Mitigação, Serviços de Rede Microsoft Windows Server e Linux
+- 💬 Pergunte-me sobre Front-End, JavaScript, Python, IaC CI/CD, MFA e Metodologias Ágeis 
+- 📫 Como entrar em contato comigo: +5561994451408
 - 😄 Pronome: ela
 - ⚡ Curiosidade: amo andar de skate e meditar
